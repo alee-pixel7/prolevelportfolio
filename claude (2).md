@@ -168,7 +168,6 @@ no build step. Uses Poppins + Inter + JetBrains Mono fonts with glassmorphism ef
 - GitHub: https://github.com/alee-pixel7
 - LinkedIn: https://www.linkedin.com/in/aligohar-web
 - Instagram: https://www.instagram.com/aleeeee__xo/
-- Instagram: https://www.instagram.com/aleeeee__xo
 
 ## Tawk.to Live Chat
 
